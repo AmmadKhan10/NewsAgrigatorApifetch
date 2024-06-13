@@ -1,0 +1,85 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+  }
+  .main-heading {
+    margin-left: 2vw;
+    color: #333;
+    text-align: center;
+  }
+  
+  .card-url,
+  .card-author,
+  .card-title,
+  .card-description {
+    margin: 8px 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .card-url {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .card-author {
+    color: #555;
+  }
+  
+  .card-title {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .card-description {
+    color: #333;
+  }
+  .card-url img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  .card-heading {
+    font-size: 2vw;
+    color: rgb(28, 28, 95);
+    text-align: center;
+  }
+  .maindiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  /* .logo-img {
+    width: 14%;
+    height: 3vw;
+  }
+  .navbar ul {
+    list-style-type: none;
+    text-decoration: none;
+  }
+  .navbar {
+    display: flex;
+    align-items: center;
+  }
+  .button1 {
+    font-size: 1vw;
+    background-color: white;
+    height: 3vw;
+    border: 1px solid rgb(131, 128, 128);
+    margin-left: 3vw;
+    font-weight: 600;
+  }
+  .button2 {
+    font-size: 1vw;
+    background-color: rgb(15, 82, 7);
+    margin-left: 2vw;
+    height: 3vw;
+    color: white;
+    border: 1px solid rgb(131, 128, 128);
+    font-weight: 600;
+  }
+  */
