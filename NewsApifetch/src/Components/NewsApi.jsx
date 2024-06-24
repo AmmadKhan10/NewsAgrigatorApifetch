@@ -10,7 +10,7 @@ function NewsApi(){
         <>
             <h1 className="main-heading">NEWS AGRIGATOR</h1>
             <div className="maindiv">
-            {news.map((item)=>{
+            {news.map((item)=>{         
                 return(
                     <div className="card">
                     <h1 className="card-heading">{item.source.name}</h1>
